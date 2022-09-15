@@ -16,3 +16,5 @@ The ultimate goal of Swift is to provide a way for developers to create and main
 (https://nondot.org/sabre/)
 
 (https://www.swift.org/about/) 
+
+(https://medium.com/swlh/swift-programming-more-than-just-an-apple-language-f9333e0cf30b)
