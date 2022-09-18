@@ -15,6 +15,6 @@
  * Select "Command line tool" under MacOS and press next
     <img width="716" alt="Screen Shot 2022-09-18 at 5 58 52 PM" src="https://user-images.githubusercontent.com/49759112/190929624-7d24f75e-0010-4e6b-8385-24d0b6f8e344.png">
 
-
-
-<img width="811" alt="Screen Shot 2022-09-18 at 5 56 40 PM" src="https://user-images.githubusercontent.com/49759112/190929536-ae1cf56e-5ac8-46c7-abf8-5fcc5bd8ca60.png">
+* Type in the following code and hit run: 
+ *print("Hello, World!")
+ * Results: <img width="811" alt="Screen Shot 2022-09-18 at 5 56 40 PM" src="https://user-images.githubusercontent.com/49759112/190929536-ae1cf56e-5ac8-46c7-abf8-5fcc5bd8ca60.png">
