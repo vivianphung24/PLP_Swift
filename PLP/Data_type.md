@@ -1,6 +1,6 @@
-#Data types and Naming Conventions in Swift 
+# Data types and Naming Conventions in Swift 
 
-##Discussion questions:
+## Discussion questions:
 1. Does your language have keywords or reserved words? How many?
 2. What are the naming requirements for variables in your language?
 What about naming conventions? Are those enforced by the compiler/interpreter, or just
