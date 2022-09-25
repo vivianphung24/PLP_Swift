@@ -6,6 +6,11 @@ Swift is a **statically** typed language, which means all the variables, constan
 - **Variables** are a data item whose value can change during the program’s execution. To declare a variable in Swift, use 'var'
 <img width="536" alt="Screen Shot 2022-09-25 at 7 04 49 PM" src="https://user-images.githubusercontent.com/49759112/192169557-3752e0ec-397e-4980-bf63-5e89f00c5671.png"> 
 
+| Variable Types| Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
      Notes: Variable types can not be changed after declaring it in the program. 
 
 *** 
@@ -20,7 +25,8 @@ Swift is a **statically** typed language, which means all the variables, constan
 
 ## Type Safety: 
 
-As mentioned above, since Swift is a strongly typed language, so you can not switch a variable from one data type to another 
+As mentioned above, since Swift is a strongly typed language, so you can not switch a variable from one data type to another. Example:  
+<img width="612" alt="Screen Shot 2022-09-23 at 1 28 59 PM" src="https://user-images.githubusercontent.com/49759112/192171229-e5d0cecd-19da-4a42-a8f0-84979ad190e3.png">
 
 
 
