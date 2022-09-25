@@ -3,8 +3,7 @@
 ## Variables vs Constants: 
 - **Variables** are a data item whose value can change during the program’s execution. To declare a variable in Swift, use 'var'
  <img width="536" alt="Screen Shot 2022-09-25 at 7 04 49 PM" src="https://user-images.githubusercontent.com/49759112/192169557-3752e0ec-397e-4980-bf63-5e89f00c5671.png"> 
-    - Notes: 
-    - Variable types can not be changed after declaring it in the program. 
+- Notes: Variable types can not be changed after declaring it in the program. 
 - **Constants** are data items whose value cannot change during the program’s execution. 
 <img width="594" alt="Screen Shot 2022-09-25 at 7 08 35 PM" src="https://user-images.githubusercontent.com/49759112/192169656-ff0b1c20-5b2a-413b-8009-e45165e27139.png">
 
