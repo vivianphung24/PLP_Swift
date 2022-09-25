@@ -1,6 +1,10 @@
 # Data types and Naming Conventions in Swift 
 
-## Discussion questions:
+## Variables: to declare a variable in Swift, use 'var' 
+<img width="536" alt="Screen Shot 2022-09-25 at 7 04 49 PM" src="https://user-images.githubusercontent.com/49759112/192169557-3752e0ec-397e-4980-bf63-5e89f00c5671.png">
+
+
+#### Discussion questions:
 1. Does your language have keywords or reserved words? How many?
 2. What are the naming requirements for variables in your language?
 What about naming conventions? Are those enforced by the compiler/interpreter, or just
