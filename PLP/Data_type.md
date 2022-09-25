@@ -8,8 +8,13 @@ Swift is a **statically** typed language, which means all the variables, constan
 
 | Variable Types| Description |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| String      | An ordered collection of characters      |
+|Character| A single-character string literal | 
+| Int   | A whole number       |
+|Float|a 32-bit floating-point number|
+|Double|a 64-bit floating-point number|
+|Bool|a Boolean value which is either true or false|
+
 
      Notes: Variable types can not be changed after declaring it in the program. 
 
