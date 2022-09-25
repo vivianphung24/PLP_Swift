@@ -14,7 +14,7 @@ Swift is a **statically** typed language, which means all the variables, constan
 <img width="583" alt="Screen Shot 2022-09-25 at 7 47 06 PM" src="https://user-images.githubusercontent.com/49759112/192171051-b47da8b9-afd3-427a-85df-1ddef6f4303a.png">
 
      Notes: Constants are immutable, so the value remains the same and can not be replaced. Example: 
-    <img width="602" alt="Screen Shot 2022-09-23 at 1 10 40 PM" src="https://user-images.githubusercontent.com/49759112/192171023-      37956e69-7404-4f96-a1fa-3cf0c76b6c11.png">
+    <img width="602" alt="Screen Shot 2022-09-23 at 1 10 40 PM" src="https://user-images.githubusercontent.com/49759112/192171023-37956e69-7404-4f96-a1fa-3cf0c76b6c11.png">
 
 *** 
 
