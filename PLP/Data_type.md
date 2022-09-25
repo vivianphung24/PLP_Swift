@@ -6,16 +6,17 @@ Swift is a **statically** typed language, which means all the variables, constan
 - **Variables** are a data item whose value can change during the program’s execution. To declare a variable in Swift, use 'var'
 <img width="536" alt="Screen Shot 2022-09-25 at 7 04 49 PM" src="https://user-images.githubusercontent.com/49759112/192169557-3752e0ec-397e-4980-bf63-5e89f00c5671.png"> 
 
-- **Notes:** Variable types can not be changed after declaring it in the program. 
+  - **Notes:** Variable types can not be changed after declaring it in the program. 
 
 *** 
 
 - **Constants** are data items whose value cannot change during the program’s execution. To declare a constant, use 'let' 
 <img width="583" alt="Screen Shot 2022-09-25 at 7 47 06 PM" src="https://user-images.githubusercontent.com/49759112/192171051-b47da8b9-afd3-427a-85df-1ddef6f4303a.png">
 
-- **Notes:** Constants are immutable, so the value remains the same and can not be replaced. Example: 
-<img width="602" alt="Screen Shot 2022-09-23 at 1 10 40 PM" src="https://user-images.githubusercontent.com/49759112/192171023-37956e69-7404-4f96-a1fa-3cf0c76b6c11.png">
+  - **Notes:** Constants are immutable, so the value remains the same and can not be replaced. Example: 
+  <img width="602" alt="Screen Shot 2022-09-23 at 1 10 40 PM" src="https://user-images.githubusercontent.com/49759112/192171023-      37956e69-7404-4f96-a1fa-3cf0c76b6c11.png">
 
+*** 
 
 ## Type Safety: 
 
