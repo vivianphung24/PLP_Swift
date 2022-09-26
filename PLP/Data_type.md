@@ -30,9 +30,17 @@ Swift is a **statically** typed language, which means all the variables, constan
 
 ## Type Safety: 
 
-As mentioned above, since Swift is a strongly typed language, so you can not switch a variable from one data type to another. Example:  
+As mentioned above, since Swift is a strongly typed language, so you can not switch a variable from one data type to another.
+Here you see that you can not replace a 'character' variable with a string:  
 <img width="612" alt="Screen Shot 2022-09-23 at 1 28 59 PM" src="https://user-images.githubusercontent.com/49759112/192171229-e5d0cecd-19da-4a42-a8f0-84979ad190e3.png">
 
+In a similar sense, you can not add an 'int' variable with a 'double' variable: 
+<img width="837" alt="Screen Shot 2022-09-25 at 8 02 44 PM" src="https://user-images.githubusercontent.com/49759112/192171693-facb0021-ef9c-4de1-ad44-df591e758f50.png">
+
+***
+
+## Printing: 
+<img width="843" alt="Screen Shot 2022-09-25 at 8 04 44 PM" src="https://user-images.githubusercontent.com/49759112/192171772-4eadd852-9e38-41aa-be22-3dcbf101f9c0.png">
 
 
 #### Sources
