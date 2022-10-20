@@ -12,7 +12,7 @@ The ultimate goal of Swift is to provide a way for developers to create and main
 
 **Requirement**: A MacOS machine 
 
-## Instructions 
+### Instructions 
 
 * Download Xcode from the App Store or on the Swift Website (https://www.swift.org/download/)
   * Please note that XCode is roughly 12GB and may some time to get installed 
