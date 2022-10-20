@@ -97,7 +97,14 @@ The **Bool** type in Swift stands for boolean and is a value type whose instance
 
 ## Loops and Functions 
 
-Does your language include multiple types of loops (while, do/while, for, foreach)?  If so, what are they and how do they differ from each other?
+ Swift has **three** loop statements: a for-in statement, a while statement, and a repeat-while statement.
+
+- **for-in** statements: code executes one for each item in a collection 
+
+- **while** statements: code executes repeatedly as long as condition is met 
+
+- **repeat-while** statement: executed one or more times, as long as a condition remains true 
+
 What is the syntax for declaring a function in your language?
 Are there any rules about where the function has to be placed in your code file so that it can run?
 Does your language support recursive functions?
