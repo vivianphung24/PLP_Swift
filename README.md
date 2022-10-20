@@ -72,10 +72,12 @@ In a similar sense, you can not add an 'int' variable with a 'double' variable:
 ### Printing: 
 <img width="843" alt="Screen Shot 2022-09-25 at 8 04 44 PM" src="https://user-images.githubusercontent.com/49759112/192171772-4eadd852-9e38-41aa-be22-3dcbf101f9c0.png">
 
+---
+
 ## Control Statements in Swift: if/else, switch, and logic 
 
 The **Bool** type in Swift stands for boolean and is a value type whose instances are either true or false.
-___
+
 
 2. What types of conditional statements are available in your language?  (if/else, if/then/else, if/elseif/else).  Does your language allow for statements other than “if” (for example, Perl has an “unless” statement, which does the opposite of “if”!)
 
@@ -86,4 +88,19 @@ ___
 5. How does your programming language deal with the “dangling else” problem?
 
 6. If your language supports switch or case statements, do you have to use “break” to get out of them?  Can you use “continue” to have all of the conditions evaluated?
+---
+
+## Loops and Functions 
+
+Does your language include multiple types of loops (while, do/while, for, foreach)?  If so, what are they and how do they differ from each other?
+What is the syntax for declaring a function in your language?
+Are there any rules about where the function has to be placed in your code file so that it can run?
+Does your language support recursive functions?
+Can functions in your language accept multiple parameters?  Can they be of different data types?
+Can functions in your language return multiple values at the same time?  How is that implemented?  If not, are there ways around that problem?  What are they?
+Is your language pass-by reference or value?  Check your code against outside sources in case there is anything tricky going on (like in Perl).
+Where are the arguments, parameters and local variables stored (value-on-stack, ref-to-heap-on stack) during execution?
+What are the scoping rules in your language (visibility and lifetime of variables before, during and after code blocks)? Are loop code block variables treated differently than function code blocks?
+Are side-effects possible? Are there guard rails against side-effects?
+Where are local Are there any other aspects of functions in your language that aren't specifically asked about here, but that are important to know in order to write one?  What are they? (e.g. dynamic vs static scope)
 
