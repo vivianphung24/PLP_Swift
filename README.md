@@ -105,7 +105,14 @@ The **Bool** type in Swift stands for boolean and is a value type whose instance
 
 - **repeat-while** statement: executed one or more times, as long as a condition remains true 
 
-What is the syntax for declaring a function in your language?
+### Functions 
+
+**Functions** in Swift can be very flexible. It can be as simple as a simple C function to as complex as an Objective C language function
+To create a function, you would need the following: 
+1. Functions are declared by **"func"** 
+2. Function name, parameters, and arugument
+    Notes: A function's arguments must always be provided in the same order as the function's parameter list and the return values are followed by →
+    
 Are there any rules about where the function has to be placed in your code file so that it can run?
 Does your language support recursive functions?
 Can functions in your language accept multiple parameters?  Can they be of different data types?
