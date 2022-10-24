@@ -111,7 +111,7 @@ The **Bool** type in Swift stands for boolean and is a value type whose instance
 To create a function, you would need the following: 
 1. Functions are declared by **"func"** 
 2. Function name, parameters, and arugument
-    Notes: A function's arguments must always be provided in the same order as the function's parameter list and the return values are followed by →
+       Notes: A function's arguments must always be provided in the same order as the function's parameter list and the return values are followed by →
     
 Are there any rules about where the function has to be placed in your code file so that it can run?
 Does your language support recursive functions?
